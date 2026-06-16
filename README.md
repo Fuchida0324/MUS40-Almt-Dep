@@ -30,3 +30,5 @@
 開発テーマとして正式に立ち上がった後の進捗管理については、
 社内の進捗管理表へ移行し、本リポジトリは立ち上がり前の技術資料や
 検討履歴の保管場所として活用します。
+
+[Core-Tec-R-D-KAIZEN](https://github.com/Bishamon-Dev-Group/Core-Tec-R-D-KAIZEN)
